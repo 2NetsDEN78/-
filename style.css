@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Lato, Roboto, sans-serif;
+    outline: none;
+    color: #52328a ;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100hv;
+    padding-top: 300px;
+    background-color: #54891a;
+}
+
+.clicks {
+    font-size: 50px;
+    color: #30ffb3 ;
+}
